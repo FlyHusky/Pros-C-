@@ -1,1 +1,1 @@
-本项目是个人日常学习C++用的。
+this document is for personal C++ test!
